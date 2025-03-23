@@ -7,3 +7,4 @@ for _ in range(t):
         min_//=2
         max_=math.ceil(max_/2)
     print(min_,max_)
+#codeforce
